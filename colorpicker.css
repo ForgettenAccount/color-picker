@@ -16,4 +16,8 @@ body {
     border-radius; 20px;
     vertical-align: middle;
 }
-#
+#color-picker {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+}
